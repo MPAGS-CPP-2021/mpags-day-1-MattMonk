@@ -10,6 +10,6 @@ The user can select the cipher, key and whether to encrypt or decrypt text.
 
 ## Documentation
 
-## How to Instal
+## How to Install
 
 ## Authors
