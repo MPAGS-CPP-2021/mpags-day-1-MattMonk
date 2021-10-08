@@ -7,6 +7,9 @@ The user can select the cipher, key and whether to encrypt or decrypt text.
     * Caesar Cipher
     * Playfair Cipher
     * Vigenere Cipher
+
+## Documentation
+
 ## How to Instal
 
 ## Authors
